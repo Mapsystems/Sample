@@ -6,5 +6,7 @@ public static void main()
 	System.out.println("dddddddddddd");
 	System.out.println("djfhdsjfhsdjfhsdjhdskljh");
 	System.out.println("djklflhdfljhjxklfhljxfkghdfjkl");
+	System.out.println(" jnin");
+	
 }
 }
